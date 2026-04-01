@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "name": "AI Resume Builder Pro",
+    "description": "Create professional, ATS-friendly resumes with AI-powered suggestions and modern templates.",
+    "price": 19.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "100+ templates",
+      "ATS optimization",
+      "Export to PDF",
+      "AI content suggestions",
+      "Real-time preview"
+    ],
+    "icon": "https://i.ibb.co.com/vCTDz4tb/writing-2327400-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Social Media Growth Kit",
+    "description": "All-in-one toolkit for managing, scheduling, and growing your social media presence.",
+    "price": 49.99,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "Post scheduler",
+      "Analytics dashboard",
+      "Content calendar",
+      "Hashtag generator",
+      "Multi-platform support"
+    ],
+    "icon": "https://i.ibb.co.com/7dcshHGK/design-tool.png"
+  },
+  {
+    "id": 3,
+    "name": "Ultimate Design Assets Pack",
+    "description": "Access a massive library of premium graphics, fonts, and UI kits for your projects.",
+    "price": 99.0,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "new",
+    "features": [
+      "10,000+ graphics",
+      "Premium fonts",
+      "UI kits",
+      "Stock images",
+      "Lifetime access"
+    ],
+    "icon": "https://i.ibb.co.com/tMgJ1fHh/Group.png"
+  },
+  {
+    "id": 4,
+    "name": "SEO Optimization Suite",
+    "description": "Boost your website ranking with advanced SEO tools and keyword analysis.",
+    "price": 29.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "Keyword research",
+      "Site audit",
+      "Backlink tracking",
+      "Competitor analysis",
+      "Rank tracking"
+    ],
+    "icon": "https://i.ibb.co.com/xtbBh6W2/operation.png"
+  },
+  {
+    "id": 5,
+    "name": "Freelancer Productivity Bundle",
+    "description": "Manage projects, track time, and invoice clients efficiently with this all-in-one bundle.",
+    "price": 59.99,
+    "period": "yearly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "Time tracking",
+      "Project management",
+      "Client invoicing",
+      "Task automation",
+      "Team collaboration"
+    ],
+    "icon": "https://i.ibb.co.com/fKLgK36/portfolio.png"
+  },
+  {
+    "id": 6,
+    "name": "Online Course Creator Pro",
+    "description": "Build and sell online courses with powerful tools for content creation and student management.",
+    "price": 149.0,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "new",
+    "features": [
+      "Course builder",
+      "Video hosting",
+      "Student analytics",
+      "Payment integration",
+      "Custom branding"
+    ],
+    "icon": "https://i.ibb.co.com/Y486LLnn/social-media.png"
+  }
+]
